@@ -3,6 +3,7 @@ UI for Vincent HPD Crime Predictor
 
 ##Install
 
+Install all the dependencies:
 ```bash
 npm install
 ```
